@@ -1,0 +1,11 @@
+.col {
+   border: 1px solid black;
+    padding: 20px;
+    background-color: rgb(95, 95, 228);
+   
+    text-align: center;
+}
+
+.container {
+    margin-top: 100px;
+}
